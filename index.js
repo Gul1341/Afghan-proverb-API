@@ -17,7 +17,7 @@ fs.readFile('proverbs.json', 'utf-8', (err, data)=>{
 });
 app.use(bodyParser.json());
 
-//Get random
+//Get random proverb
 app.get('/proverbs/random', (req,res)=>{
         const randomIndex =  Math.floor( Math.random() * proverbsData.length);
         const randomProverb = proverbsData[randomIndex];
