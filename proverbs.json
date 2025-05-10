@@ -1,0 +1,35 @@
+[
+        {
+                "id":1,
+              "textDari":"سنگ بزرگ علامت نزدن است.",
+              "textPashto": " لوی دبره د نهی علامت دی.",
+              "textEnglish" : "A large stone signifies hesitation.",
+              "meaning": " انجام دادن کارهای بیش از حد توان غیر ممکن است. ",
+              "category": " ضرب المثل"
+                
+        },
+        {
+                "id": 2,
+                "textDari": " هر که بذر محبت میکارد محصول دوستی میچیند.",
+                "textPashto": " هر خوک چی د مینی تخم کر ، د دوستی حاصلات راتولوی.",
+                "textEnglish" :" Whoever sows the seed of love reaps the harvest of friendship.",
+                "meaning": " رفتار نیک با همدیگر صداقت و دیانت را افزایش میدهد.  ",
+                "category":" پند"
+        },
+        {
+                "id": 3,
+                "textDari":"درختی که میوه ندارد سایه اش هم بی فایده است.",
+                "textPashto":"هغه ونه چی میوه نه لری سیوری یی هم بی گتی دی.",
+                "textEnglish":"A tree without fruit is useless even in its shade.",
+                "meaning":"انسان های که برای خودش یا خانواده اش یا جامعه اش  مفید واقع نشود نبودنش بهتر است. ",
+                "category":"اندرز"
+        },
+        {
+                "id": 4,
+                "textDari": " کسی که در دلش شاد است هر کجا که برود باغ خوشبختی را با خود میبرد.",
+                "textPashto": " هغه چا چی په زره کی خوشحاله دی هر چیرته چه ولار شی د خوشبختی باغ به له خانه ولری.",
+                "textEnglish": " He who is happy at heart carries a garden of happiness whereever he goes.",
+                "meaning": " انسان های با دل شاد  بیشتر با همه مشکلات مبارزه میکند و در نهایت همیشه خوشبخت است.",
+                "category": "اندرز"
+        }
+]
