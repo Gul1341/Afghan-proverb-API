@@ -36,6 +36,7 @@ app.get('/proverbs/:id',(req,res)=>{
 
 });
 
+
 //get proverb by filter
 app.get('/proverbs', (req,res)=>{
         const proverbType = req.query.type;
