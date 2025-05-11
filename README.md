@@ -5,3 +5,5 @@ app.get('/proverbs.random') => get proverb by random
 app.post('/proverbs')==> add new proverb
 app.delete('/proverbs/:id')==> delete specific proverb
 app.get('/proverbs/:id')==> get specific proverb by id
+
+deploy link for https://afghan-proverb-api-loux.onrender.com
